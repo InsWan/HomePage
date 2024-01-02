@@ -1,28 +1,26 @@
 import { litePage } from "./page.ts"
 const page = new litePage({
-    githubID: "yuanzui-cf"
+    githubID: "InsWan"
 })
 page.setLink([
     {
         id: "github",
-        link: "https://github.com/yuanzui-cf",
+        link: "https://github.com/InsWan",
     },
     {
         id: "mail",
-        link: "mailto:grassblogstu@gmail.com",
+        link: "mailto:i@inswan.fun",
     },
     {
         id: "blog",
-        link: "https://blog.yzcf.top",
+        link: "https://blog.inswan.cn/",
+    },
+    {
+        id: "blog_g",
+        link: "https://blog.inswan.fun/",
     },
     {
         id: "support",
         link: "#donate",
-    },
-    {
-        id: "telegram",
-        link: "https://t.me/yz_cf",
-    },
+    }
 ])
-page.getPosts("https://blog.yzcf.top/feed.xml")
-page.setProject()

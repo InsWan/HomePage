@@ -1,7 +1,7 @@
-# 🖥️ Lite Page
-A lite personal page template.
+# 🖥️ Home Page
+A lite personal home page for myself.
 
-[Demo](https://yzcf.top)
+[Demo](https://inswan.cn)
 
 ---
 
@@ -10,7 +10,7 @@ A lite personal page template.
 ## Use
 
 > [!IMPORTANT]
-> After folk or clone the repo, remember to remove redundant code like analytic code which used to analyze my own site. It doesn't work on your site!
+> After fork or clone the repo, remember to remove redundant code like [analytic code](https://github.com/InsWan/HomePage/blob/main/index.html#L14) which used to analyze my own site. It doesn't work on your site!
 
 Just fork the repo, edit the template and deploy your site on vercel automatically!
 
@@ -20,7 +20,7 @@ If you do not want to deploy the page on vercel, you need to clone the repo to y
 
 ### Blog Posts
 
-You can simply go to `index.ts`, change the url in `getPosts()`. Most time the function will work. However, there are some other XML format different from what I have tested. So you may change the function in `page.ts`  yourself. If you are not familiar with TypeScript or JavaScript, you can start an [issue](https://github.com/yuanzui-cf/lite-page/issues/new). I will help you after noticing your issue.  
+You can simply go to `index.ts`, change the url in `getPosts()`. Most time the function will work. However, there are some other XML format different from what I have tested. So you may change the function in `page.ts`  yourself. If you are not familiar with TypeScript or JavaScript, you can start an [issue](https://github.com/InsWan/HomePage/issues/new). I will help you after noticing your issue.  
 
 ### Others
 
