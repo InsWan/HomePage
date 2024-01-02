@@ -1,11 +1,11 @@
 # 🖥️ Home Page
 A lite personal home page for myself.
 
-[Demo](https://inswan.cn)
+[Demo](https://inswan.fun)
 
 ---
 
-![Screenshot](./art/readme-1.png)
+![Screenshot](./art/inswan.fun.png)
 
 ## Use
 
