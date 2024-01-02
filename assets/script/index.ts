@@ -12,11 +12,11 @@ page.setLink([
         link: "mailto:i@inswan.fun",
     },
     {
-        id: "blog",
+        id: "blog_cm",
         link: "https://blog.inswan.cn/",
     },
     {
-        id: "blog_g",
+        id: "blog",
         link: "https://blog.inswan.fun/",
     },
     {
