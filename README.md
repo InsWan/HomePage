@@ -5,12 +5,12 @@ A lite personal home page for myself.
 
 ---
 
-![Screenshot](./art/readme-1.png)
+![Screenshot](./art/inswan.cn.png)
 
 ## Use
 
 > [!IMPORTANT]
-> After fork or clone the repo, remember to remove redundant code like [analytic code](https://github.com/InsWan/HomePage/blob/main/index.html#L14) which used to analyze my own site. It doesn't work on your site!
+> After fork or clone the repo, remember to remove redundant code like [analytic code](https://github.com/InsWan/HomePage/blob/inswan.cn/index.html#L14) which used to analyze my own site. It doesn't work on your site!
 
 Just fork the repo, edit the template and deploy your site on vercel automatically!
 
